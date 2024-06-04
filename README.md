@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javaloyesgithub
 - 👀 I’m interested in systems and network.
-- 🌱 I’m currently learning AWS and RedHat
+- 🌱 I’m currently learning RKE2.
 - 💞️ I’m looking to collaborate on telecommunications projects.
 - 📫 How to reach me? I am avaible by josemanuel@javaloyesengineering.com mail.
 
